@@ -1,0 +1,17 @@
+-r requirements.txt
+coverage
+coveralls
+mock
+pytest
+pytest-django
+flake8
+pep8
+pylint
+pyflakes
+mccabe
+factory_boy
+tox
+
+# Additional test requirements go here
+#ipython<2.0.0
+#South==0.8.4
