@@ -1,4 +1,4 @@
 django>=1.7.1
 six>=1.7.3
-wheel==0.23.0
+wheel==0.38.1
 # Additional requirements go here
